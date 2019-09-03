@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (32256 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="112143" visible="true" version="53" changeset="69862181" timestamp="2019-05-03T22:11:20Z" user="hnoodle" uid="9852395">
+  <member type="node" ref="1690212988" role="label"/>
+  <member type="way" ref="166659029" role="outer"/>
+  <member type="way" ref="97341711" role="outer"/>
+  <member type="way" ref="166665771" role="outer"/>
+  <member type="way" ref="38549975" role="outer"/>
+  <member type="way" ref="535866597" role="outer"/>
+  <member type="way" ref="38549960" role="outer"/>
+  <member type="way" ref="38549977" role="outer"/>
+  <member type="way" ref="38549982" role="outer"/>
+  <member type="way" ref="38549944" role="outer"/>
+  <member type="way" ref="530475286" role="outer"/>
+  <member type="way" ref="38549954" role="outer"/>
+  <member type="way" ref="38549994" role="outer"/>
+  <member type="way" ref="38549983" role="outer"/>
+  <member type="way" ref="38550018" role="outer"/>
+  <member type="way" ref="38549940" role="outer"/>
+  <member type="way" ref="38550004" role="outer"/>
+  <member type="way" ref="38550020" role="outer"/>
+  <member type="way" ref="38550003" role="outer"/>
+  <member type="way" ref="38549969" role="outer"/>
+  <member type="way" ref="166665762" role="outer"/>
+  <member type="way" ref="38549941" role="outer"/>
+  <member type="way" ref="166658993" role="outer"/>
+  <member type="way" ref="166615665" role="outer"/>
+  <member type="way" ref="38550001" role="outer"/>
+  <member type="way" ref="166659000" role="outer"/>
+  <tag k="admin_level" v="8"/>
+  <tag k="alt_name" v="San José"/>
+  <tag k="alt_name:en" v="San José"/>
+  <tag k="border_type" v="city"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="is_in" v="USA, California"/>
+  <tag k="is_in:country" v="USA"/>
+  <tag k="is_in:country_code" v="US"/>
+  <tag k="is_in:iso_3166_2" v="US:CA"/>
+  <tag k="is_in:state" v="California"/>
+  <tag k="is_in:state_code" v="CA"/>
+  <tag k="name" v="San Jose"/>
+  <tag k="name:am" v="ሳን ሆዜ"/>
+  <tag k="name:ar" v="سان خوسيه"/>
+  <tag k="name:en" v="San Jose"/>
+  <tag k="name:en:pronunciation" v="ˌseən hoʊˈzeɪ"/>
+  <tag k="name:es" v="San José"/>
+  <tag k="name:es:pronunciation" v="saŋ xoˈse"/>
+  <tag k="name:pronunciation" v="ˌseən hoʊˈzeɪ"/>
+  <tag k="name:zh" v="聖荷西"/>
+  <tag k="name:zh-CN" v="圣何塞"/>
+  <tag k="name:zh-Hant" v="聖荷西"/>
+  <tag k="official_name" v="City of San José"/>
+  <tag k="population" v="1035317"/>
+  <tag k="population:date" v="2017"/>
+  <tag k="source" v="TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q16553"/>
+  <tag k="wikipedia" v="en:San Jose, California"/>
+ </relation>
+</osm>
